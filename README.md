@@ -1,5 +1,5 @@
 # 💫 About Me:
-Build a successful career in  finance
+Building a successful career in  finance
 
 
 # 💻 Tech Stack:
