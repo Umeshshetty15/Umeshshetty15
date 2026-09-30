@@ -1,5 +1,5 @@
 # 💫 About Me:
-
+Passionate about Finance, build a successful career in  finance
 
 
 # 💻 Tech Stack:
